@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dharlan
+- 👋 Hi, I’m @dianicaharlan
 - 👀 I’m interested in ricing linux, scripting, bots and imageboards
 - 🌱 I’m currently learning python and kotlin
 - 💞️ I’m looking to collaborate on a void linux-based linux distribution
